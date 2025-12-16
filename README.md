@@ -1,16 +1,14 @@
-# [Project Euler](https://projecteuler.net)
+# Numbered Grid Project Template.
 
-These are my solutions for various [Project Euler](https://projecteuler.net) problems.
+I've done enough challenges with a numbered grid, so I figured I'd make this a reusable template for myself.
 
-Project Euler is a website that has hundreds of challenges related to writing algorithms to solve problems.
+These scripts are used across:
+- <https://github.com/zsarge/ProjectEuler>
+- <https://github.com/zsarge/advent-of-code-2021/>
+- <https://github.com/zsarge/advent-of-code-2022/>
+- ... More?
 
-**Disclaimer:**
-
-Not all of these solutions are particularly good. My goal is to practice solving the problems myself, not to practice implementing other people's solutions.
-
-**Note:**
-
-> Members found to be spoiling problems beyond #100 will have their accounts locked.
+This is just for my personal use. Buyer beware.
 
 ## My Project Euler solutions:
 (Click a number to view the associated solution.)
